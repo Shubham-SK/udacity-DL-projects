@@ -4,3 +4,4 @@ My projects from the Udacity Deep Learning Nanodegree.
 - dog project // covolutional neural network that determines the breed of a dog when given an image.
 - tv script generation // recurrent neural network that generates new tv scripts after learning about them with a script dataset.
 - face generation // gan - uploading soon.
+- sentiment analysis // RNN implemented on pytorch and deployed on AWS sagemaker (API accessible via webpage.)
